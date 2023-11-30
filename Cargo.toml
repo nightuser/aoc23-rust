@@ -1,0 +1,8 @@
+[workspace]
+members = ["day*", "common"]
+resolver = "2"
+
+[workspace.package]
+authors = ["nightuser"]
+documentation = "https://github.com/nightuser/aoc23-rust"
+license = "MIT"

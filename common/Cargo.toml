@@ -1,0 +1,10 @@
+[package]
+name = "common"
+version = "0.1.0"
+edition = "2021"
+description = "AoC 2023: Common code"
+authors.workspace = true
+documentation.workspace = true
+license.workspace = true
+
+[dependencies]
